@@ -1,0 +1,2 @@
+Long_variable_name_12345556677754332335656 = "Hello Rohini"
+print (Long_variable_name_12345556677754332335656)
