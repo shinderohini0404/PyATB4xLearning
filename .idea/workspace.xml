@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c369f92-a9ce-4571-9f39-274bed8e8876" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13.08.2024/Lab_018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13.08.2024/Lab_019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13.08.2024/Lab_020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13.08.2024/Lab_022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13.08.2024/Lab_024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13.08.2024/lab_023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10.08.2024/Lab005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shinderohini0404&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shinderohini0404/PyATB4xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;12852284-c138-4864-a27b-d4b3e871ec23&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kxjgaGfTl5d4JBOYKHomNdeVMn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,6 +62,12 @@
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
+    "Python.Lab_018.executor": "Run",
+    "Python.Lab_019.executor": "Run",
+    "Python.Lab_020.executor": "Run",
+    "Python.Lab_022.executor": "Run",
+    "Python.Lab_024.executor": "Run",
+    "Python.lab_023.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
